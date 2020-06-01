@@ -1,0 +1,15 @@
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.SignUp.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Add_Courses.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.DashBoard.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.DeleteCourses.resources
+c:\users\david\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Semester.resources
+C:\Users\David\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Set_up.resources
